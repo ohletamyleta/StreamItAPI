@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "babys first stream",
+      "description": "i hope this works",
+      "id": 1
+    },
+    {
+      "title": "Stream 2: electric streamaloo",
+      "description": "i'm so funny, right?",
+      "id": 2
+    }
+  ]
 }
